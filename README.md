@@ -2,4 +2,4 @@
 sandy
 sandhya
 renuka
-lavanyaq
+lavanya
